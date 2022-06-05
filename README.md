@@ -54,3 +54,5 @@ To build OpenOS just run compile.cmd and open the bochs source file now youre ru
 
 # License
 OpenOS is a open source project for you to learn from, none of the code is allowed to be copied or reused for commercial purposes.
+
+All Images or Logos are owned by Open Sys Inc and are not allowed to be copied or reused.
