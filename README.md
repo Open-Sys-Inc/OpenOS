@@ -5,7 +5,7 @@ OpenOS is a 64 Bit operating system written in assembly and C++.
 
 OpenOS is going to be a easy to use operating system for everyone.
 
-[Please see the License for more information](#license)
+[Please see the License for more information!](#license)
 
 # OpenOS' Current State
  - [ ] GUI
